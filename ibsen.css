@@ -30,15 +30,21 @@
     text-decoration: solid;
 }
 table, td, th {  
-    border: 1px solid #ddd;
-    text-align: left;
+    margin:2px;
+    padding:10px;
+     border:solid 1px;
+    border-collapse: separate;
+    text-align: center;
+    outline: solid 2px blue;
   }
   
-  table {
-    border-collapse: collapse;
-    width: 100%;
+  tr:nth-child(even) {
+
+    color: green;
+    background-color: antiquewhite;
   }
   
-  th, td {
-    padding: 15px;
+  tr:nth-child(odd) {
+    color:brown;
+    background-color:beige:
   }
