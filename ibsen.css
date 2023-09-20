@@ -15,7 +15,7 @@
 }
 .direction:hover{
     color:green;
-    background-color: aliceblue;
+    background-color: rgb(13, 138, 248);
 }
 .drstockmann{
     color:red;
@@ -24,7 +24,7 @@
     text-decoration: solid;
 }
 .mrsstockmann{
-    color:azure;
+    color:rgb(230, 250, 9);
     font-family:'Times New Roman', Times, serif;
     font-size:18px;
     text-decoration: solid;
