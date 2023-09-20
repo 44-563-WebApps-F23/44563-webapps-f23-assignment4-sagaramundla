@@ -1,0 +1,31 @@
+.speech{
+    color:black;
+    font-family:'Times New Roman', Times , serif;
+    font-size:15px;
+    text-decoration: solid;
+    text-indent: 14px;
+}
+.direction{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    text-decoration: solid;
+    text-decoration-color:aquamarine;
+    text-indent: 20px;
+}
+.direction:hover{
+    color:green;
+    background-color: aliceblue;
+}
+.drstockmann{
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    text-decoration: solid;
+}
+.mrsstockmann{
+    color:azure;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    text-decoration: solid;
+}
