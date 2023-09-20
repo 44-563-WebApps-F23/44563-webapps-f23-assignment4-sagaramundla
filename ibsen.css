@@ -35,7 +35,7 @@ table, td, th {
      border:solid 1px;
     border-collapse: separate;
     text-align: center;
-    outline: solid 2px blue;
+    outline: solid 2px palevioletred;
   }
   
   tr:nth-child(even) {
