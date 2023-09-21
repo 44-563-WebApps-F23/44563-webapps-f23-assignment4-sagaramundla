@@ -70,7 +70,7 @@ table, td, th {
     background-color: rgb(13, 138, 248);
     text-shadow: 2px 3px 2px rgb(240, 8, 124);
 }
-.drstockmann:hover{
+.drstockmann:hover {
     color:violet;
     background-color: rgb(13, 138, 248);
     text-shadow: 2px 3px 2px darkgrey;
