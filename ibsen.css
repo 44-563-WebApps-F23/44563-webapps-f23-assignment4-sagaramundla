@@ -90,3 +90,40 @@ table, td, th {
     background-color: rgb(13, 138, 248);
     text-shadow: 2px 3px 2px darkgrey;
 }
+ul.navbar-horizontal {
+    /* remove these */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  ul.navbar-horizontal li {
+    float:left;/* line up horizontally */
+    color:#000;
+    
+  }
+  
+  ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+  }
+  
+  /* on hover change the link color*/
+  ul.navbar-horizontal li a:hover {  
+    background-color: #555;
+    color:white;
+  }
+
+  .NTR{
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:50px;
+    text-decoration: solid;
+    text-decoration-color:rgb(22, 209, 40);
+    text-indent: 20px;
+  }
+  .NTR:hover{
+    color:rgb(133, 5, 5);
+    background-color: rgb(151, 159, 161);
+  }
