@@ -41,10 +41,22 @@ table, td, th {
   tr:nth-child(even) {
 
     color: green;
-    background-color: antiquewhite;
+    background-color: chocolate;
   }
   
   tr:nth-child(odd) {
     color:brown;
-    background-color:beige:
+    background-color:bisque;
   }
+  .petra{
+    color:fuchsia;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    text-decoration: solid;
+}
+.hovstad{
+    color:blue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    text-decoration: solid;
+}
